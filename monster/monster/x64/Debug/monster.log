@@ -1,0 +1,3 @@
+﻿  monster.cpp
+D:\с++\monster\monster\monster.cpp(32,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  monster.vcxproj -> D:\с++\monster\x64\Debug\monster.exe
